@@ -1,0 +1,10 @@
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\bin\Debug\vtys_projem.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\bin\Debug\vtys_projem.exe
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\bin\Debug\vtys_projem.pdb
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\obj\Debug\vtys_projem.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\obj\Debug\vtys_projem.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\obj\Debug\vtys_projem.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\obj\Debug\vtys_projem.exe
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\obj\Debug\vtys_projem.pdb
+c:\users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\obj\Debug\vtys_projem.form_giris.resources
+C:\Users\samet\documents\visual studio 2013\Projects\vtys_projem\vtys_projem\obj\Debug\vtys_projem.Form2.resources
